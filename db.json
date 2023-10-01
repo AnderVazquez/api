@@ -1,0 +1,22 @@
+{
+  "usuarios":[
+    {
+      "id": 1,
+      "nombre": Ander,
+      "apellido": Vazquez,
+      "contrasena": abc,
+      "tipo": deportista,
+      "edad": 21,
+      "pueblo": Irun
+    },
+    {
+      "id": 2,
+      "nombre": Xabi,
+      "apellido": Barandiaran,
+      "contrasena": cba,
+      "tipo": entrenador,
+      "edad": 35,
+      "pueblo": Zarautz
+    }
+  ]
+}
